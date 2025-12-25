@@ -43,9 +43,8 @@ Midscene.js makes UI automation stable, easy to debug, and friendly to maintain 
 ## 📫 Connect with Me
 
 *   **Website**: [lifeos.vip](https://lifeos.vip) / [midscenejs.com](https://midscenejs.com)
-*   **Twitter/X**: [@YourHandle](https://twitter.com/YourHandle) (Replace with your link)
-*   **Bilibili**: [Watch LifeOS Tutorials](https://www.bilibili.com/video/BV1ZQpCeiEtY/)
-*   **Discord**: [Midscene Community](https://discord.gg/yourlink)
+*   **Twitter/X**: [@quanruzhuoxiu](https://twitter.com/quanruzhuoxiu)
+*   **Discord**: [LifeOS Community](https://discord.gg/HZGanKEkuZ) / [Midscene Community](https://discord.gg/2JyBHxszE4)
 
 <!--
 **Visitor Count**
