@@ -1,6 +1,6 @@
 # Hi there, I'm Leyang 👋
 
-**Chief Vibe Officer @midscene_ai & Founder of LifeOS.vip**
+**Chief Vibe Officer [Midscenejs](https://midscenejs.com) & Founder of [LifeOS](https://lifeos.vip)**
 
 Focused on UI Automation and PKM, dedicated to maximizing productivity across work and life with AI.
 
