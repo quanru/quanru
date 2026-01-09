@@ -1,8 +1,8 @@
 # Hi there, I'm Leyang 👋
 
-**LifeOS Founder & Midscene.js Core Contributor.**
+**Chief Vibe Officer @midscene_ai & Founder of LifeOS.vip**
 
-Focused on PKM and UI Automation, dedicated to maximizing productivity across life and work with AI.
+Focused on UI Automation and PKM, dedicated to maximizing productivity across work and life with AI.
 
 ## 🚀 Featured Projects
 
