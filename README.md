@@ -87,4 +87,5 @@ DeepAsk brings context-aware conversations to Obsidian.
 ## 📫 Connect with Me
 
 * **Twitter/X**: [@quanruzhuoxiu](https://twitter.com/quanruzhuoxiu)
+* **Blog**: [blog.lifeos.vip](https://blog.lifeos.vip)
 * **Discord**: [LifeOS Community](https://discord.gg/HZGanKEkuZ) / [Midscene Community](https://discord.gg/2JyBHxszE4)
