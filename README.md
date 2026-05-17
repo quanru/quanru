@@ -1,7 +1,9 @@
 # Hi there, I'm Leyang 👋
 
-**Chief Vibe Officer at [Midscene](https://midscenejs.com) & builder of Vibelet, Aino, LifeOS, Calendar Pro, and DeepAsk.**
+> Full personal homepage: [https://lifeos.vip/about](https://lifeos.vip/about).
 
+**Chief Vibe Officer at [Midscene](https://midscenejs.com) & builder of [Vibelet](https://vibelet.icu), [Aino](https://aino.md), [LifeOS](https://lifeos.vip), [Calendar Pro](https://lifeos.vip/plugin/calendar/calendar-pro.html), and [DeepAsk](http://deepask.vip).**
+       
 Focused on UI Automation and PKM, dedicated to maximizing productivity across work and life with AI.
 
 ## 🚀 Featured Projects
