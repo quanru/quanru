@@ -98,7 +98,7 @@ Calendar Pro turns Obsidian tasks into a schedulable calendar system with month,
 
 ### 🔎 [DeepAsk](http://deepask.vip)
 
-<p align="left"><a href="http://deepask.vip"><img src="https://lifeos.vip/about-assets/deepask-icon.svg" alt="DeepAsk plugin icon" width="72" /></a></p>
+<p align="left"><a href="http://deepask.vip"><img src="https://shop.lifeos.md/icons/deepask.png" alt="DeepAsk plugin icon" width="72" /></a></p>
 
 **AI chat across Obsidian and Chrome.**
 
